@@ -1,4 +1,4 @@
-Springboard Frontend Hiring Challenge.
+CTS Frontend Hiring Challenge.
 
 clone/download code from https://github.com/skc-garimella/cts_codecafe.git
 
