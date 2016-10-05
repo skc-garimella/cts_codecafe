@@ -27,7 +27,7 @@ class CodeList extends Component {
           <br />
           <br />
           <i className="fa fa-5x fa-pulse fa-spinner fa-align-center text-primary col-sm-offset-4"></i>
-          <h3 className="text-primary col-sm-offset-4">No Results Found</h3>
+          <h3 className="text-primary col-sm-offset-4"></h3>
         </div>
       );
     }
